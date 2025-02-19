@@ -1,0 +1,19 @@
+# ninja log v6
+2695	3001	1739948835850415023	subtitle-creation.app/Contents/MacOS/subtitle-creation	5ccad263fe59a7bb
+806	2694	1739948833961903636	CMakeFiles/subtitle-creation.dir/mainwindow.cpp.o	8543c1a02e8eef95
+806	2693	1739948833961729848	CMakeFiles/subtitle-creation.dir/main.cpp.o	67f3882e0ca7d9cc
+40	799	1739948833937473276	/Users/ericbrown/Documents/githubrepo/subtitle-creation/build/Qt_6_8_2_for_macOS-Debug/subtitle-creation_autogen/mocs_compilation.cpp	87c0b6e2b7541f5b
+806	2689	1739948833961454522	CMakeFiles/subtitle-creation.dir/subtitle-creation_autogen/mocs_compilation.cpp.o	fab2e1eb42657193
+5	66	1739948901941331000	/Users/ericbrown/Documents/githubrepo/subtitle-creation/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/cmake.verify_globs	2964487a94801e83
+40	799	1739948833937473276	/Users/ericbrown/Documents/githubrepo/subtitle-creation/build/Qt_6_8_2_for_macOS-Debug/subtitle-creation_autogen/timestamp	87c0b6e2b7541f5b
+40	799	1739948833937473276	subtitle-creation_autogen/mocs_compilation.cpp	87c0b6e2b7541f5b
+40	799	1739948833937473276	subtitle-creation_autogen/timestamp	87c0b6e2b7541f5b
+67	487	1739948902361012218	build.ninja	a9fad44649a590a9
+2	40	1739948902384552063	/Users/ericbrown/Documents/githubrepo/subtitle-creation/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/cmake.verify_globs	2964487a94801e83
+47	93	1739948902429142690	subtitle-creation_autogen/timestamp	87c0b6e2b7541f5b
+47	93	1739948902429142690	subtitle-creation_autogen/mocs_compilation.cpp	87c0b6e2b7541f5b
+47	93	1739948902429142690	/Users/ericbrown/Documents/githubrepo/subtitle-creation/build/Qt_6_8_2_for_macOS-Debug/subtitle-creation_autogen/timestamp	87c0b6e2b7541f5b
+47	93	1739948902429142690	/Users/ericbrown/Documents/githubrepo/subtitle-creation/build/Qt_6_8_2_for_macOS-Debug/subtitle-creation_autogen/mocs_compilation.cpp	87c0b6e2b7541f5b
+93	2169	1739948902475588135	CMakeFiles/subtitle-creation.dir/main.cpp.o	67f3882e0ca7d9cc
+93	2174	1739948902475836508	CMakeFiles/subtitle-creation.dir/mainwindow.cpp.o	8543c1a02e8eef95
+2175	2570	1739948904557645095	subtitle-creation.app/Contents/MacOS/subtitle-creation	5ccad263fe59a7bb
